@@ -1,4 +1,4 @@
-<h1 align="center">Ecofrost Data Analytics Developments</h1>  
+<h1 align="center">Ecozen Data Analytics Developments</h1>  
 
 - 🔭 We are currently working on **Zero First Year Failure Project**
 
